@@ -1,16 +1,16 @@
-#GoMicroServices
+# GoMicroServices
 
 GoMicroServices is a collection of microservices written in Golang. This project serves as a starting point for building microservices-based applications using Golang and other complementary technologies.
 
-##Getting Started
+## Getting Started
 
-###Prerequisites
+### Prerequisites
 To run this project, you need to have the following installed on your machine:
 
 1. Docker
 2. Minikube
 
-###Installation
+### Installation
 1. Clone this repository to your local machine using `git clone https://github.com/rajatmjain/GoMicroServices.git`.
 2. Build the Docker image for the project using `docker build -t gomicroservices:latest .` in the project directory.
 3. Start Minikube using minikube start.
