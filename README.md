@@ -33,6 +33,7 @@ Each service has its own REST API.
 2. Docker
 3. Minikube
 4. Kubernetes
+5. Helm
 
 ## Contributing
 
