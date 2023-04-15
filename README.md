@@ -9,6 +9,7 @@ To run this project, you need to have the following installed on your machine:
 
 1. Docker
 2. Minikube
+3. Helm
 
 ### Installation
 1. Clone this repository to your local machine using `git clone https://github.com/rajatmjain/GoMicroServices.git`.
